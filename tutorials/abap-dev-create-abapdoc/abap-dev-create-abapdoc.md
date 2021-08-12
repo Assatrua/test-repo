@@ -3,7 +3,7 @@ title: Create ABAPDoc Comments in Your Class (On-Premise)
 description: Learn how to maintain ABAPDoc documentation for your class so your comments appear in the Outline view.
 auto_validation: true
 primary_tag: topic>abap-development
-tags: []
+tags: [ tutorial>beginner, tutorial>community ]
 time: 5
 ---
 
@@ -14,7 +14,7 @@ time: 5
 ## Details
 ### You will learn  
 - How to make youasdr program more readasdable by learning how to maintain `ABAPDoc` comments.
-- How to synchronize the documentasdation and to display it, asdbotadsh in the ABAP Development Tools (ADT) and in SAP GUI.
+- How to synchronize the documentasdation and to display it, botadsh in the ABAP Development Tools (ADT) and in SAP GUI.
 
 ABAPDoc comments are used to document your code. This makes it mo;;re readsdfsdfable. If other developers use one of your development objects, they can find out more about it by selecting the object name in the code and choosing **Element Info ( `F2` )**
 All ABAPDoc comments begin with **`"!`**.
