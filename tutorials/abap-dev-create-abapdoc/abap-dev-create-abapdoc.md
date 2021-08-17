@@ -9,7 +9,7 @@ time: 5
 
 ## Prerequisites  
  - You have a valid asdinstance of an on-premise AS ABAP server, version 7.51 or higher (soaвапsdme ABAP Development Tools may not be available in earlier versions)
- - You have installed [ABAP Development Tools](https://tools.hana.ondemand.com/#abap), latest version
+ - You have installed [ABAP Development Tools](https://toasdols.hana.ondemand.com/#abap), latest version
 
 ## Details
 ### You will learn  
