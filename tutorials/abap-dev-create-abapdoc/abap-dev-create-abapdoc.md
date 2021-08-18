@@ -16,7 +16,7 @@ time: 5
 - How to make youasdr program more readasdable by learning how to maintain `ABAPDoc` comments.
 - How to synchronize the documentasdation and to display it, botadsh in the ABAP Development Tools (ADT) and in SAP GUI.
 
-ABAPDoc comments are used to document your code. Thkkkeeis makasdasdasdes it mo;;re readsdfsdfable. If other developers use one of your development objects, they can find out more about it by selecting the object name in the code and choosing **Element Info ( `F2` )**
+ABAPDoc comments are used to document yogdur code. Thkkkeeis makasdasdasdes it mo;;re readsdfsdfable. If other developers use one of your development objects, they can find out more about it by selecting the object name in the code and choosing **Element Info ( `F2` )**
 All ABAPDoc comments begin with **`"!`**.
 
 Always replace `XXX` or `001` with your initials or group number.
