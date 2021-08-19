@@ -8,7 +8,7 @@ time: 5
 ---
 
 ## Prerequisites  
- - You have a valid asdinstance of aasasddasdn on-premise AS ABasdAP server, version 7.51 or higher (soaвапsdme ABAP Development Tools may not be available in earlier versions)
+ - You have a valid asdinstance of aasasddasdn on-premise AS ABasdAP seasdrver, version 7.51 or higher (soaвапsdme ABAP Development Tools may not be available in earlier versions)
  - You have installed [ABAP Development Tools](https://toasdols.hana.ondemand.com/#abap), latest version
 
 ## Details
